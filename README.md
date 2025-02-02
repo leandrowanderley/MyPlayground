@@ -1,9 +1,12 @@
+
 # SwiftUI Study Playground
 
-This repository contains an Xcode playground used for studying the SwiftUI course from Hacking with Swift. The goal of this playground is to practice concepts from the course and apply them to real-time SwiftUI development.
+This repository contains my playground codes, including my 100 Days of SwiftUI project, as well as other personal SwiftUI experiments. The primary goal is to practice concepts learned from the SwiftUI course by Hacking with Swift and to apply them in hands-on projects.
 
-## Course: [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui/11)
-This playground focuses on the lessons from the Day 0, until i finish it at Day 100 on the SwiftUI course. It includes interactive examples to deepen understanding of Swift and SwiftUI framework.
+## 100 Days of SwiftUI
+
+This project follows the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) course, starting from Day 0 and continuing through until Day 100. It includes interactive examples designed to deepen my understanding of both Swift and the SwiftUI framework.
 
 ## License
-This project is for educational purposes only and follows the guidelines of the Hacking with Swift course.
+
+This project is for educational purposes only and follows the guidelines of the Hacking with Swift course and other Swift experiments.
